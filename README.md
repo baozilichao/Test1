@@ -2,7 +2,7 @@
 # PLDroidPlayer
 
 PLDroidPlayer 是一个适用于 Android 平台的音视频播放器 SDK，可高度定制化和二次开发，为 Android 开发者提供了简单、快捷的接口，帮助开发者在 Android 平台上快速开发播放器应用。
-[image](https://github.com/baozilichao/Test1/blob/master/result/qqq.png) 
+![](https://github.com/baozilichao/Test1/blob/master/result/qqq.png) 
 ## 特性		 
 
 - [x] 基于 [ijkplayer](https://github.com/Bilibili/ijkplayer) ( based on [ffplay](http://ffmpeg.org/) )		
